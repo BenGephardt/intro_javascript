@@ -1,4 +1,4 @@
-const firstName = Victor;
+const firstName = 'Victor';
 
 console.log(`Good Morning, ${firstName}`);
 console.log(`Good Afternoon, ${firstName}`);
