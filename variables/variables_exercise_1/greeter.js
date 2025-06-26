@@ -1,5 +1,5 @@
-const name = Victor;
+const firstName = Victor;
 
-console.log(`Good Morning, ${name}`);
-console.log(`Good Afternoon, ${name}`);
-console.log(`Good Evening, ${name}`);
+console.log(`Good Morning, ${firstName}`);
+console.log(`Good Afternoon, ${firstName}`);
+console.log(`Good Evening, ${firstName}`);
