@@ -1,4 +1,6 @@
-let age = 35;
+let rlSync = require('readline-sync');
+
+let age = rlSync.question('How old are you? ');
 
 console.log(`You are ${age} years old.`);
 
