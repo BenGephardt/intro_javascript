@@ -1,2 +1,2 @@
-let name = prompt("What's your name?");
-console.log(`Good Morning, ${name}`);
+let firstName = prompt("What's your name?");
+console.log(`Good Morning, ${firstName}`);
