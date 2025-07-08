@@ -1,0 +1,1 @@
+// Exception handling is is a process that deals with errors in a manageable and predictable manner using reserved words such as try and catch.

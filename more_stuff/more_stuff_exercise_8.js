@@ -1,0 +1,1 @@
+let isNotANumber = value => value !== value;
