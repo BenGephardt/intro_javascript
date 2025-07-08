@@ -4,5 +4,4 @@ let numbers3 = [2, 4, 6, 8];
 
 let threeChecker = array => {
   return array.includes(3);
-}
-
+};
